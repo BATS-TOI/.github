@@ -1,2 +1,2 @@
-# BATS-TOI
+# digiYO
 - Bridging the physical and virtual
